@@ -1,7 +1,7 @@
 # Dennis-Abanke
 # Hi, I'm Dennis Abanke 👋
 
-I am a dedicated and detail-oriented cyber security analyst with strong skills in **Python** and **Linux**.  
+I am a dedicated and detail-oriented Cyber Security Analyst with over decade experience in system administration and recently transition into cyber security. i have strong skills in **Python** and **Linux**.  
 I enjoy building efficient solutions, automating workflows, and working with open-source tools.
 
 ---

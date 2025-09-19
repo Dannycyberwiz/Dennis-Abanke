@@ -4,7 +4,8 @@
 I am a dedicated and detail-oriented Cyber Security Analyst with over decade experience in system administration and recently transition into cyber security. i have strong skills in **Python** and **Linux**.  
 I enjoy building efficient solutions, automating workflows, and working with open-source tools.
 
----
+PROJECTS 
+ACTIVE DIRECTORY ---
 
 ## 🛠 Skills
 - **Languages:** Python
